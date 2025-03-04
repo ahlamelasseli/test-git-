@@ -2,13 +2,22 @@
     margin: 0;
     padding: 0;
 }
-.parent{
-    display: flex;
-    justify-content: space-between;
+body{
+    background-color: black;
 }
+
 .child{
     background-color: brown;
     color: bisque;
     width: 20vw;
     height: 15vh;
+    text-align: center;
+}
+h1{
+    background-color: brown;
+    border-radius: 6rem;
+    color: beige;
+    margin-top: 4vh;
+    width: 15vw;
+    text-align: center;
 }
