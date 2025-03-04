@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+.child{
+    background-color: brown;
+    color: bisque;
+    width: 20vw;
+    height: 15vh;
+}
